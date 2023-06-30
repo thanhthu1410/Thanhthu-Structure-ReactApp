@@ -1,8 +1,11 @@
 {
-    "users" : [
-       {
-        "id" : 1,
-        "name" : "TTTT"
-       }
-    ]
+  "users": [
+    {
+      "name": "thuuuu",
+      "email": "thu@gmail.com",
+      "phone": "0919770405",
+      "block": true,
+      "id": 1
+    }
+  ]
 }
